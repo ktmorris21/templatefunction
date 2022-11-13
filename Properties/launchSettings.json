@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "templatefunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7233",
+      "launchBrowser": false
+    }
+  }
+}
